@@ -13,7 +13,7 @@ public class secret_Formula
     /**
      * Constructor for objects of class secretformula
      */
-    public secretformula()
+    public secret_Formula()
     {
         // initialise instance variables
         x = 0;
